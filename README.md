@@ -1,4 +1,4 @@
-### Yo, wat up! <img src="v.gif" width="40px" height="40px" />
+### Yo, wat up! <img src="https://raw.githubusercontent.com/glymphie/glymphie/main/v.gif" width="40px" height="40px" />
 
 Hacker gone coding 👨‍💻
 
