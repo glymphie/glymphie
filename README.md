@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="BlackBackgroundBubblesMiddleTrans.png" height="300px" />
+
+</div>
+
 ### Yo, wat up! <img src="https://raw.githubusercontent.com/glymphie/glymphie/main/v.gif" width="40px" height="40px" />
 
 Hacker gone coding 👨‍💻
