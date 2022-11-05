@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="BlackBackgroundBubblesMiddleTrans.png" height="300px" />
+<img src="https://raw.githubusercontent.com/glymphie/glymphie/main/BlackBackgroundBubblesMiddleTrans.png" height="300px" />
 
 </div>
 
