@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/glymphie/glymphie/main/BlackBackgroundBubblesMiddleTrans.png" height="300px" />
-
-</div>
 
 ### Yo, wat up! <img src="https://raw.githubusercontent.com/glymphie/glymphie/main/v.gif" width="40px" height="40px" />
 
@@ -16,6 +11,12 @@ Everything I do, is to make it better ❤️
     - Rust 🦀 (Currently learning this one 🌱)
 
 Visit [my website](https://glymphie.xyz/) to learn more about me 🤙
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/glymphie/glymphie/main/BlackBackgroundBubblesMiddleTrans.png" height="300px" />
+
+</div>
 
 ## 📈 GitHub Stats
 
