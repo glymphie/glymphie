@@ -1,6 +1,8 @@
 
 ### Yo, wat up! <img src="https://raw.githubusercontent.com/glymphie/glymphie/main/v.gif" width="40px" height="40px" />
 
+<img align="right" src="https://raw.githubusercontent.com/glymphie/glymphie/main/BlackBackgroundBubblesMiddleTrans.png" height="300px" />
+
 Hacker gone coding 👨‍💻
 
 Everything I do, is to make it better ❤️
@@ -12,11 +14,7 @@ Everything I do, is to make it better ❤️
 
 Visit [my website](https://glymphie.xyz/) to learn more about me 🤙
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/glymphie/glymphie/main/BlackBackgroundBubblesMiddleTrans.png" height="300px" />
-
-</div>
 
 ## 📈 GitHub Stats
 
