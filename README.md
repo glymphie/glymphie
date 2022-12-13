@@ -15,6 +15,7 @@ Everything I do, is to make it better ❤️
 Visit [my website](https://glymphie.xyz/) to learn more about me 🤙
 
 <br>
+<br>
 
 ## 📈 GitHub Stats
 
