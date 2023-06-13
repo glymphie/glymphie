@@ -12,7 +12,9 @@ Everything I do, is to make it better ❤️
     - Bash ⚙️
 
 - I wanna learn:
+    - Rust 🦀 (Currently learning this one 🌱)
     - Lua 🌕
+
 
 Visit [my website](https://glymphie.xyz/) to learn more about me 🤙
 
