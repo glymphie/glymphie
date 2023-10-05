@@ -8,14 +8,14 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read me blog p
 
 ## 🔧 Things I Programming in
 
-- I program in:
-  - 🐍 Python
-  - 🤖 Bash
-  - ⚙️ C
+- 🐍 Python
+- 🤖 Bash
+- ⚙️ C
+- 📄 Websites (HTML, CSS, JS)
 
 <br>
 
-- I'm learning:
+- I'm also learning:
   - 🦀 Rust
   - 🌕 Lua
 
@@ -24,7 +24,7 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read me blog p
 - 🐧 Linux: Gentoo, Kali, Ubuntu
 - 🪟 Windows
 - 🐳 Docker and Docker-compose
-- ⚡ Django
+- 🧩 Django
 - 🗂️ Active directory
 - 🗄️ C2 servers: [Mythic](https://github.com/its-a-feature/Mythic) mostly
 - ☢️ Custom Payloads
@@ -34,7 +34,7 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read me blog p
 - 👨‍💻 Hacking
 - ⌨️ Coding
 - 🏋🏻‍♂️ Gym
-- 🎨 Painting
+- 🎨 Painting & Drawing
 - 🪡 Sewing
 - 🎮 Gaming
 
