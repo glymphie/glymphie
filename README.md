@@ -11,6 +11,7 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read me blog p
 - 🐍 Python
 - 🤖 Bash
 - ⚙️ C
+- 🏗️ C#
 - 📄 Websites (HTML, CSS, JS)
 
 <br>
@@ -23,7 +24,7 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read me blog p
 
 - 🐧 Linux: Gentoo, Kali, Ubuntu
 - 🪟 Windows
-- 🐳 Docker and Docker-compose
+- 🐳 Docker and Docker compose
 - 🧩 Django
 - 🗂️ Active directory
 - 🗄️ C2 servers: [Mythic](https://github.com/its-a-feature/Mythic) mostly
@@ -33,7 +34,7 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read me blog p
 
 - 👨‍💻 Hacking
 - ⌨️ Coding
-- 🏋🏻‍♂️ Gym
+- 🧗 Bouldering
 - 🎨 Painting & Drawing
 - 🪡 Sewing
 - 🎮 Gaming
