@@ -4,7 +4,7 @@ Hacker gone coding, everything I do, is to make it better ❤️
 
 Visit [my website](https://glymphie.xyz/) to learn more about me, read my blog posts, watch videos about things I'm researching, or browse my notes about a lot of the things I use 🤙
 
-Note: Website is currently under construction. Sorry.. ¯\\_(ツ)_/¯
+Note: Website is currently under construction. Sorry.. ¯\\\_(ツ)\_/¯
 
 ## 🔧 Things I Programming in
 
