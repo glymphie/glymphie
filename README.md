@@ -1,34 +1,30 @@
 # Yo, wattup! <img src="https://raw.githubusercontent.com/glymphie/glymphie/main/v.gif" width="40px" height="40px" />
 
-Hacker gone coding, everything I do, is to make it better ❤️
+Hacker gone coding. Everything I do, is to make it better. ❤️
 
-Visit [my website](https://glymphie.xyz/) to learn more about me, read my blog posts, watch videos about things I'm researching, or browse my notes about a lot of the things I use 🤙
+Visit [my website](https://glymphie.xyz/) to learn more about me, read my blog posts, watch videos about things I'm researching, or browse my notes about a lot of the things I do and use 🤙
 
 Note: Website is currently under construction. Sorry.. ¯\\\_(ツ)\_/¯
 
-## 🔧 Things I Programming in
+## 🔧 Things I program in
 
 - 🐍 Python
 - 🤖 Bash
-- ⚙️ C
-- 🏗️ C#
 - 📄 Websites (HTML, CSS, JS)
 
 <br>
 
-- I'm also learning:
+- I'm currently learning:
   - 🦀 Rust
   - 🌕 Lua
 
 ## 📖 Things I'm interested in and learning about
 
-- 🐧 Linux: Gentoo, Kali, Ubuntu
+- 🐧 Linux
 - 🪟 Windows
 - 🐳 Docker
 - 🧩 Django
 - 🗂️ Active directory
-- 🗄️ C2 servers: [Mythic](https://github.com/its-a-feature/Mythic) mostly
-- ☢️ Custom Payloads
 
 ## 💪 Things I do for fun
 
