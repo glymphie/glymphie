@@ -6,10 +6,10 @@ Visit [my website](https://glymphie.xyz/) to learn more about me, read my blog p
 
 Note: Website is currently under construction. Sorry.. ¯\\\_(ツ)\_/¯
 
-## 🔧 Things I program in
+## 🔧 I code in
 
 - 🐍 Python
-- 🤖 Bash
+- 🤖 Shell scripting
 - 📄 Websites (HTML, CSS, JS)
 
 <br>
@@ -18,13 +18,13 @@ Note: Website is currently under construction. Sorry.. ¯\\\_(ツ)\_/¯
   - 🦀 Rust
   - 🌕 Lua
 
-## 📖 Things I'm interested in and learning about
+## ✏️ My projects are usually about
 
-- 🐧 Linux
-- 🪟 Windows
-- 🐳 Docker
-- 🧩 Django
-- 🗂️ Active directory
+- 🛠️ Hacker tools
+- ⚙️ Utilities
+- 📃 Websites
+- 📂 Backups
+- 🍙 Ricing
 
 ## 💪 Things I do for fun
 
